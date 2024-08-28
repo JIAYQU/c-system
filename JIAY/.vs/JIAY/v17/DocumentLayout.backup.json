@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\cc\\JIAY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58DBA240-8233-4EBB-9A06-FC9D98E77EEA}|JIAY\\JIAY.vcxproj|D:\\code\\cc\\JIAY\\JIAY\\JIAY.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58DBA240-8233-4EBB-9A06-FC9D98E77EEA}|JIAY\\JIAY.vcxproj|solutionrelative:JIAY\\JIAY.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JIAY.cpp",
+              "DocumentMoniker": "D:\\code\\cc\\JIAY\\JIAY\\JIAY.cpp",
+              "RelativeDocumentMoniker": "JIAY\\JIAY.cpp",
+              "ToolTip": "D:\\code\\cc\\JIAY\\JIAY\\JIAY.cpp",
+              "RelativeToolTip": "JIAY\\JIAY.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T15:24:21.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
